@@ -1,0 +1,35 @@
+nav{
+    background-color: #008080bd;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+nav li a:hover{
+    color: #333333;
+  
+}
+.campus-reps{
+    min-height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media (max-width: 1000px) {
+#firstSection{
+       margin-top: 10%;
+}
+    }
